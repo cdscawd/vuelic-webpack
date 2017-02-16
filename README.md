@@ -1,7 +1,7 @@
 # vuedemo
 
 > A Vue.js project
-``` 
+``` bash 
 # 开发环境构建步骤（以构建完成）
 sudo npm install -g vue-cli
 

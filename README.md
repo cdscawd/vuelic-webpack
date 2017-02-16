@@ -1,14 +1,11 @@
 # vuedemo
 
 > A Vue.js project
-``` bash 
+``` 
 # 开发环境构建步骤（以构建完成）
 sudo npm install -g vue-cli
-
 vue （查看vue全局命令 检测是否安装成功）
-
 vue list （查可创建的模版）
-
 vue webpack vuedemo（创建模版）
 ``` 
 ## Build Setup
